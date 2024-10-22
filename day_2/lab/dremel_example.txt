@@ -1,0 +1,34 @@
+Doctor
+    Patient
+        Visits: [
+			2021,
+			NULL,
+			2024
+        ]
+	Patient
+        Visits: [
+			2023
+        ]
+    Patient: null
+    Patient
+        Visits: null
+Doctor: null
+Doctor
+    Patient
+        Visits: [
+			2024
+        ]
+
+Id, Hospital, Doctor
+1, hsr, {'name': 'Claudio', 'patients': [{'name': 'Claudio', visits:[2020,2023]}]}
+1, hsr, {'name': 'Claudio', 'patients': [{'name': 'Claudio', visits:[2020,2023]}
+
+definition levels (3 = value, 2 = null at visti level, 1 = null at patient level, 0 = null doctor)
+3, 2, 3, 3, 1, 2, 0, 3
+repetition levels (0 = new doctor, 1 = new patient, 2 = new visit)
+0, 2, 2, 1, 1, 1, 0, 0
+values
+2021, 2024, 2023, 2024
+
+
+[[1, 2, 4], [1, 3]][4

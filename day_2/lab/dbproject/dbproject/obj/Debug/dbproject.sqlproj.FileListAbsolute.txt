@@ -1,0 +1,10 @@
+C:\Users\cpaterniti\source\repos\big-data-azure-intro\day_2\lab\dbproject\dbproject\bin\Debug\dbproject.dacpac
+C:\Users\cpaterniti\source\repos\big-data-azure-intro\day_2\lab\dbproject\dbproject\bin\Debug\dbproject.dll
+C:\Users\cpaterniti\source\repos\big-data-azure-intro\day_2\lab\dbproject\dbproject\bin\Debug\dbproject.pdb
+C:\Users\cpaterniti\source\repos\big-data-azure-intro\day_2\lab\dbproject\dbproject\obj\Debug\dbproject.sqlproj.AssemblyReference.cache
+C:\Users\cpaterniti\source\repos\big-data-azure-intro\day_2\lab\dbproject\dbproject\obj\Debug\dbproject.dll
+C:\Users\cpaterniti\source\repos\big-data-azure-intro\day_2\lab\dbproject\dbproject\obj\Debug\dbproject.pdb
+C:\Users\cpaterniti\source\repos\big-data-azure-intro\day_2\lab\dbproject\dbproject\obj\Debug\Model.xml
+C:\Users\cpaterniti\source\repos\big-data-azure-intro\day_2\lab\dbproject\dbproject\obj\Debug\refactor.xml
+C:\Users\cpaterniti\source\repos\big-data-azure-intro\day_2\lab\dbproject\dbproject\obj\Debug\postdeploy.sql
+C:\Users\cpaterniti\source\repos\big-data-azure-intro\day_2\lab\dbproject\dbproject\obj\Debug\predeploy.sql
